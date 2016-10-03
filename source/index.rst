@@ -3,7 +3,7 @@ Architech's TWR-LS1021A documentation
 *************************************
 
 :Version: 2.0.0A
-:Copyright: Architech
+:Copyright: (C)2016 Avnet Silica company
 :Date: 22/10/15
 
 .. image:: _static/board.png
